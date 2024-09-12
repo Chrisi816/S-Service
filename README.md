@@ -4,6 +4,8 @@
 
 In total, several hundred hours have gone into the projects. More than 70 thousand lines of code were written. All these are modifications for the famous game GTA 5, especially for the biggest modding platform FiveM. All scripts were written with LUA, HTML, CSS, JS and some C#
 
+The links take you to the product videos
+
 [Deathscreen](https://www.youtube.com/watch?v=hk_ISwCXr2Y)
 [Scoreboard](https://www.youtube.com/watch?v=GDQXOA7Otyo&t=8s)
 [Rental System](https://www.youtube.com/watch?v=VkgT4kCubTE&t=10s)
